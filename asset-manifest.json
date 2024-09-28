@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.44b09603.css",
-    "main.js": "/static/js/main.b931d323.js",
-    "static/media/Norway.jpeg": "/static/media/Norway.3119250438d9ba7dbe09.jpeg",
-    "static/media/Sydney.jpeg": "/static/media/Sydney.eb4c4bbb1f280358e9b4.jpeg",
-    "static/media/MountFuji.jpeg": "/static/media/MountFuji.0d8ea56aa2bac71f499a.jpeg",
-    "static/media/globe.png": "/static/media/globe.ed67ad60fa3bba3d13e4.png",
-    "index.html": "/index.html",
-    "main.44b09603.css.map": "/static/css/main.44b09603.css.map",
-    "main.b931d323.js.map": "/static/js/main.b931d323.js.map"
+    "main.css": "/Travel-journal-React/static/css/main.44b09603.css",
+    "main.js": "/Travel-journal-React/static/js/main.b8ad972f.js",
+    "static/media/Norway.jpeg": "/Travel-journal-React/static/media/Norway.3119250438d9ba7dbe09.jpeg",
+    "static/media/Sydney.jpeg": "/Travel-journal-React/static/media/Sydney.eb4c4bbb1f280358e9b4.jpeg",
+    "static/media/MountFuji.jpeg": "/Travel-journal-React/static/media/MountFuji.0d8ea56aa2bac71f499a.jpeg",
+    "static/media/globe.png": "/Travel-journal-React/static/media/globe.ed67ad60fa3bba3d13e4.png",
+    "index.html": "/Travel-journal-React/index.html",
+    "main.44b09603.css.map": "/Travel-journal-React/static/css/main.44b09603.css.map",
+    "main.b8ad972f.js.map": "/Travel-journal-React/static/js/main.b8ad972f.js.map"
   },
   "entrypoints": [
     "static/css/main.44b09603.css",
-    "static/js/main.b931d323.js"
+    "static/js/main.b8ad972f.js"
   ]
 }
